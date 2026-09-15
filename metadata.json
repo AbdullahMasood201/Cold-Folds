@@ -1,0 +1,6 @@
+{
+  "name": "Cold Folds",
+  "description": "Homemade food and local food delivery service in Ghauri Town, Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
